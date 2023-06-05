@@ -1,1 +1,1 @@
-conda install mkl-include==2022.2.1 mkl-static==2022.2.1 mkl-devel==2022.2.1 -c intel
+pip install mkl-include==2022.2.1 mkl-devel==2022.2.1
